@@ -1,3 +1,7 @@
+/volley.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=300
+
 /VLData.json
   Content-Type: application/json; charset=utf-8
   Cache-Control: public, max-age=300
